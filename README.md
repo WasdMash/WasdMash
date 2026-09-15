@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-👋 Hello, I'm Nana Amfo-Brobbey, a programmer with a passion to break down all sorts of problems into functional solutions. <br>I've got a YouTube channel where I make games using the Unity game engine.
+👋 Hello, I'm Nana Amfo-Brobbey, a First-Class Computer Science graduate programmer with a passion to break down all sorts of problems into functional solutions. I'm open to graduate software engineer and developer roles. <br>I've got a YouTube channel where I make games using the Unity game engine.
 <br><br>
-[![Check out one of my latest videos](https://i9.ytimg.com/vi/M0X3FT_lFfo/mqdefault.jpg?v=672a451c&sqp=COis5MAG&rs=AOn4CLA_LBmcdJ3KTr7sFEc-_dnXL_o79g)](https://youtu.be/M0X3FT_lFfo)
+[![Check out one of my latest videos](https://img.youtube.com/vi/ftEUwN0rELs/maxresdefault.jpg)]([https://youtu.be/ftEUwN0rELs])
 <br>
 - Be sure to check out the PythonCollection repository to view all of the python skills which I have accumulated over the years
 
