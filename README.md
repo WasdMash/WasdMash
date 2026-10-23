@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Nana Amfo-Brobbey, a First-Class Computer Science graduate programmer with a passion to break down all sorts of problems into functional solutions. I'm open to graduate software engineer and developer roles. <br>I've got a YouTube channel where I make games using the Unity game engine.
 <br><br>
-[![Check out one of my latest videos](https://img.youtube.com/vi/ftEUwN0rELs/maxresdefault.jpg)]([https://youtu.be/ftEUwN0rELs])
+[![Check out one of my latest videos](https://img.youtube.com/vi/M9Ju4iLSftc/maxresdefault.jpg)](https://youtu.be/M9Ju4iLSftc)
 <br>
 - Be sure to check out the PythonCollection repository to view all of the python skills which I have accumulated over the years
 
